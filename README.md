@@ -7,3 +7,6 @@ ADK, Gemini (Vertex AI), BigQuery MCP, Cloud Run, Cloud Build, Artifact Registry
 
 ## Deploy
 adk deploy cloud_run with the --with_ui flag (see Google Cloud codelab)
+
+## Live Demo
+https://bq-data-agent-232411490749.us-west1.run.app
